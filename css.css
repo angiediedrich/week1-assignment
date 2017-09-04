@@ -5,13 +5,13 @@
 
   html {
   	margin: auto;
-  	color: #fff;
   	font-size: 16px;
   	line-height: 1rem;
   }
 
   body {
   	width: 630px;
+    color: #fff;
   }
 
   header {
